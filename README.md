@@ -1,4 +1,4 @@
-<h2 align="left">I'm Shaanid, a passionate Software Developer</h2>
+<h2 align="center">HI, I'm Shaanid, Software Developer</h2>
 
 ###
 
