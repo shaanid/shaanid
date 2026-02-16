@@ -12,20 +12,21 @@
 
 <div align="center">
 
-<div style="display:flex; justify-content:center; align-items:center; gap:18px; flex-wrap:nowrap; overflow-x:auto; padding:10px 0;">
 
-<img src="https://skillicons.dev/icons?i=php" height="45" />
-<img src="https://skillicons.dev/icons?i=laravel" height="45" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-<img src="https://skillicons.dev/icons?i=mysql" height="45" />
-<img src="https://skillicons.dev/icons?i=js" height="45" />
-<img src="https://skillicons.dev/icons?i=ts" height="45" />
-<img src="https://skillicons.dev/icons?i=react" height="45" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="45" />
-<img src="https://skillicons.dev/icons?i=nuxtjs" height="45" />
-<img src="https://skillicons.dev/icons?i=html" height="45" />
-<img src="https://skillicons.dev/icons?i=css" height="45" />
-<img src="https://skillicons.dev/icons?i=git" height="45" />
+
+<img src="https://skillicons.dev/icons?i=php" height="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=laravel" height="55" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nuxtjs" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="55" />&nbsp;
+
 
 </div>
 
