@@ -4,7 +4,6 @@
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaanid&theme=tokyonight" />
 
-
 <img height="170" src="https://streak-stats.demolab.com?user=shaanid&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
@@ -12,27 +11,23 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git: Version control for my code universe" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-  <img width="12" />
+
+<div style="display:flex; justify-content:center; align-items:center; gap:18px; flex-wrap:nowrap; overflow-x:auto; padding:10px 0;">
+
+<img src="https://skillicons.dev/icons?i=php" height="45" />
+<img src="https://skillicons.dev/icons?i=laravel" height="45" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+<img src="https://skillicons.dev/icons?i=mysql" height="45" />
+<img src="https://skillicons.dev/icons?i=js" height="45" />
+<img src="https://skillicons.dev/icons?i=ts" height="45" />
+<img src="https://skillicons.dev/icons?i=react" height="45" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+<img src="https://skillicons.dev/icons?i=nuxtjs" height="45" />
+<img src="https://skillicons.dev/icons?i=html" height="45" />
+<img src="https://skillicons.dev/icons?i=css" height="45" />
+<img src="https://skillicons.dev/icons?i=git" height="45" />
+
+</div>
+
 </div>
 
