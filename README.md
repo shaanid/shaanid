@@ -1,3 +1,38 @@
+<h1 align="center">Shaanid</h1>
+<p align="center">
+  <b>Software Developer</b> · Laravel Engineer · API Architect
+</p>
+
+<p align="center">
+  Building scalable systems with clean architecture and production-grade performance.
+</p>
+
+---
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,mysql,mongodb,git" />
+</p>
+
+---
+
+### Focus
+
+- Scalable Backend Systems  
+- RESTful API Design  
+- Database Optimization  
+- Queue & Job Processing  
+- Production-Safe Deployment  
+
+---
+
+<p align="center">
+  <sub>Crafting reliable software. Shipping quality. Thinking in systems.</sub>
+</p>
+
+
+
 <!-- <h2 align="center">HI, I'm Shaanid, Software Developer</h2>
 
 <div align="center">
@@ -30,44 +65,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
   <img width="12" />
 </div> -->
-
-<h2 align="center">HI, I'm Shaanid, Software Developer</h2>
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Laravel+Developer;Full+Stack+Engineer;MongoDB+%7C+MySQL;Building+Scalable+Applications" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github.com/shaanid/shaanid/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" />
-</div>
 
