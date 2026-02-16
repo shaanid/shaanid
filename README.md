@@ -1,44 +1,14 @@
-<h1 align="center">Shaanid</h1>
-<p align="center">
-  <b>Software Developer</b> · Laravel Engineer · API Architect
-</p>
-
-<p align="center">
-  Building scalable systems with clean architecture and production-grade performance.
-</p>
-
----
-
-### Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,mysql,mongodb,git" />
-</p>
-
----
-
-### Focus
-
-- Scalable Backend Systems  
-- RESTful API Design  
-- Database Optimization  
-- Queue & Job Processing  
-- Production-Safe Deployment  
-
----
-
-<p align="center">
-  <sub>Crafting reliable software. Shipping quality. Thinking in systems.</sub>
-</p>
-
-
-
-<!-- <h2 align="center">HI, I'm Shaanid, Software Developer</h2>
+<h2 align="center">HI, I'm Shaanid, Software Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaanid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shaanid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaanid&theme=tokyonight" />
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=shaanid&theme=tokyonight&hide_border=true&background=00000000" />
+
 </div>
+
 <br>
 
 <div align="center">
@@ -64,5 +34,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
   <img width="12" />
-</div> -->
+</div>
 
