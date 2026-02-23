@@ -26,6 +26,7 @@
 <img src="https://skillicons.dev/icons?i=html" height="55" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="55" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="55" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="55" />&nbsp;
 
 
 </div>
